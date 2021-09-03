@@ -1,6 +1,8 @@
-from BeautifulSoup import BeautifulSoup
+from bs4 import BeautifulSoup
 import requests
 import tomark
+from datetime import datetime
+
 
 def table(listOfDicts):
     """Loop through a list of dicts and return a markdown table as a multi-line string.
@@ -22,17 +24,29 @@ def table(listOfDicts):
         markdowntable += markdownrow + '|' + '\n'
     return markdowntable
 
-def extract_meta(url):
-    r = requests.get(url)
+def extract_meta(domain):
+    url = f'http://{domain}'
+    print(url)
+    data = dict()
+    data['company'] = f'[{domain}]({url})'
 
-    print(dir(r))
-    soup = BeautifulSoup(r.text)
+    try:
+       r = requests.get(url, allow_redirects=True)
+       soup = BeautifulSoup(r.text)
+       title = soup.find('meta', attrs={'name':'og:title'}) or soup.find('meta', attrs={'property':'title'}) or soup.find('meta', attrs={'name':'title'}) or soup.find('title')
+       data['title'] = title.get('content').replace('\n', '') or title.text.replace('\n', '')
+    except Exception:
+       data['title'] = 'No title on homepage.'
 
-    meta = soup.findAll('meta')
-    print(meta)
+    try:
+       description = soup.find('meta', attrs={'name':'og:description'}) or soup.find('meta', attrs={'property':'description'}) or soup.find('meta', attrs={'name':'description'})
+       data['description'] = description.get('content').replace('\n', '')
+    except Exception:
+       data['description'] = 'No desciption on homepage.'
 
-    for tag in meta:
-        print(tag)
+    print(data)
+    return data
+
 
 if __name__ == '__main__':
     companies = []
@@ -40,7 +54,9 @@ if __name__ == '__main__':
         for domain in domains:
             company = extract_meta(domain.strip())
             companies.append(company)
-    with open("regtech.md", "w") as output:
-        file1.write("# RegTech comapnies")
-        file1.writelines(table(companies))
+
+
+    with open("Readme.md", "w", encoding="utf-8") as output:
+        output.write(f"# EU RegTech comapnies - Status: {datetime.today().strftime('%Y-%m-%d')}\n\n")
+        output.writelines(table(companies))
     
