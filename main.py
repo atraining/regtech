@@ -33,16 +33,24 @@ def extract_meta(domain):
     try:
        r = requests.get(url, allow_redirects=True)
        soup = BeautifulSoup(r.text)
-       title = soup.find('meta', attrs={'name':'og:title'}) or soup.find('meta', attrs={'property':'title'}) or soup.find('meta', attrs={'name':'title'}) or soup.find('title')
-       data['title'] = title.get('content').replace('\n', '') or title.text.replace('\n', '')
     except Exception:
-       data['title'] = 'No title on homepage.'
+       return data
+
+
+    try:
+       title = soup.find('meta', attrs={'name':'og:title'}) or soup.find('meta', attrs={'property':'title'}) or soup.find('meta', attrs={'name':'title'}) or soup.find('title')
+       data['title'] = title.get('content') or title.text
+    except Exception:
+       data['title'] = 'N/A'
+    
+    data['title'] = data['title'].replace('\n', '').replace('\r', '').replace('\t', '')
 
     try:
        description = soup.find('meta', attrs={'name':'og:description'}) or soup.find('meta', attrs={'property':'description'}) or soup.find('meta', attrs={'name':'description'})
-       data['description'] = description.get('content').replace('\n', '')
-    except Exception:
-       data['description'] = 'No desciption on homepage.'
+       data['description'] = description.get('content')
+    except AttributeError:
+       data['description'] = 'N/A'
+
 
     print(data)
     return data
