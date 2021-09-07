@@ -102,9 +102,7 @@ Pliance APIs will help you automate your AML processes, such as PEP and sanction
 | [belleron.net](http://belleron.net) | Belleron - Financial Crime Fighters |  |
 | [b-next.com](http://b-next.com) | CMC Software for Capital Markets Surveillance | b-next.com | With the help of our CMC Software we have a useful tool for capital markets surveillance to protect our customers from the threat of market abuse. |
 | [bsmgmbh.de](http://bsmgmbh.de) | Homepage | BSM BankingSysteme und Managementberatung aus Frankfurt bietet Unternehmen des Finanzsektors passgenaue Lösungen rund ums aufsichtsrechtliche Meldewesen. |
-| [cambrist.com](http://cambrist.com) | Cambrist | Cambrist - Payments Regulation, EU2019/518, Cross Border Payments 
-Regulation, Multi-Currency Wallets, Foreign Exchange, Payment Cards, 
-Mastercard, Visa |
+| [cambrist.com](http://cambrist.com) | Cambrist | Cambrist - Payments Regulation, EU2019/518, Cross Border Payments Regulation, Multi-Currency Wallets, Foreign Exchange, Payment Cards, Mastercard, Visa |
 | [cappitech.com](http://cappitech.com) | Cappitech - Future Proofed Transaction Reporting Solutions | N/A |
 | [caseware.com](http://caseware.com) | Accounting and Audit Software Solutions for accounting firms, corporations and government | CaseWare | Accounting, audit, analytics, and compliance software built by seasoned accountants. Manage your audit and financial reporting more efficiently with less risk. |
 | [chainalysis.com](http://chainalysis.com) | 403 Forbidden | N/A |
@@ -186,8 +184,7 @@ Mastercard, Visa |
 | [smartsearch.com](http://smartsearch.com) |         AML Checks | Anti Money Laundering Checks & Services | SmartSearch     | SmartSearch is the leading online provider of Anti Money Laundering Services, helping businesses comply with the Anti Money Laundering Regulations. |
 | [smava.de](http://smava.de) | SMAVA Online-Kreditvergleich | unabhängig und kundenorientiert | SMAVA Kredite vergleichen: ☎ Telefonische Expertenberatung ✓ Exklusive Kreditangebote ✓ Schufaneutral ✓ Schnell &amp; unkompliziert ➤ Zum günstigen Kredit! |
 | [socure.com](http://socure.com) | Digital Identity Verification & Fraud Detection Solutions | Socure | With 500+ enterprise customers across major verticals, Socure is the market leader in digital identity verification and fraud detection solutions. |
-| [starlingtrust.com](http://starlingtrust.com) | Home | Starling Trust Sciences | 
-			At Starling, AI = “Alternative Intelligence.”  Our Predictive Behavioral Analytics platform provides complex organizations with leading indicators of trouble, before opportunity is lost or crisis erupts, allowing you to optimize performance and minimize risk — proactively.	 |
+| [starlingtrust.com](http://starlingtrust.com) | Home | Starling Trust Sciences | At Starling, AI = “Alternative Intelligence.”  Our Predictive Behavioral Analytics platform provides complex organizations with leading indicators of trouble, before opportunity is lost or crisis erupts, allowing you to optimize performance and minimize risk — proactively.	 |
 | [sysnetgs.com](http://sysnetgs.com) | Cyber Security and Compliance Solutions | Data Security Consultants | We help build and support cyber and compliance security solutions that help improve overall security and ultimately reduce risk for companies regardless of their size or industry. Contact us today to discuss our range of information security solutions. |
 | [thetaray.com](http://thetaray.com) | ThetaRay - transforming the way the world benefits from data | ThetaRay's big data analytics solutions are based on AI & machine learning, empowering businesses to find opportunities and threats hidden in their big data |
 | [thisisme.com](http://thisisme.com) | Home | We enable businesses to reduce fraud, automate KYC, improve on-boarding & increase revenue while providing an on-demand, seamless customer experience. |
@@ -234,9 +231,7 @@ Mastercard, Visa |
 | [intelitruth.com](http://intelitruth.com) | Intelitruth | Digital-Ready KYC+AML On-Boarding |
 | [koinly.io](http://koinly.io) | Koinly — Free Crypto Tax Software | Easily Calculate Your Crypto Taxes ⚡ Supports 300+ exchanges ᐉ Coinbase ✓ Binance ✓ BitMEX  ✅ View your taxes free! |
 | [kompany.com](http://kompany.com) | Apache HTTP Server Test Page powered by CentOS | N/A |
-| [risksave.com](http://risksave.com) | Financial Compliance Services London | RiskSave Compliance | RiskSave Compliance is one of the leading RegTech experts, offering 
-financial compliance services and regulatory solutions, UK. Get in touch 
-with us today. |
+| [risksave.com](http://risksave.com) | Financial Compliance Services London | RiskSave Compliance | RiskSave Compliance is one of the leading RegTech experts, offering financial compliance services and regulatory solutions, UK. Get in touch with us today. |
 | [adherence-corp.com](http://adherence-corp.com) | Cannabis Compliance | Adherence Compliance Cloud | ADCOCloud provides cannabis compliance automation support for business license owners, government regulators and financial institutions. |
 | [imandra.ai](http://imandra.ai) | Home of Reasoning as a ServiceÂ® | Imandra Inc. | Imandra is AI for capital markets APIs. |
 | [aigine.se](http://aigine.se) | Startsida - Aigine | N/A |
@@ -245,8 +240,7 @@ with us today. |
 | [asctechnologies.com](http://asctechnologies.com) | ASC Technologies - We record & analyze communications | ASC bietet innovative LÃ¶sungen zu Aufzeichnung, Dokumentation und Krisen-Handling im Bereich Kundenkommunikation â auch aus der Cloud |
 | [asset-logic.com](http://asset-logic.com) | Home - AssetLogic | Integrity. Connectivity. Security. AssetLogic is the financial information network the investment industry has been asking for. |
 | [autologyx.com](http://autologyx.com) | Homepage - Autologyx | N/A |
-| [bigcontrols.com](http://bigcontrols.com) | BIGcontrols | Business Compliance Management Software | Business compliance management made easy – Modern technology | BIGcontrols
-A software solution to simplify your company’s regulatory and business compliance obligations. Prepare now for the Future of Work! |
+| [bigcontrols.com](http://bigcontrols.com) | BIGcontrols | Business Compliance Management Software | Business compliance management made easy – Modern technology | BIGcontrols A software solution to simplify your company’s regulatory and business compliance obligations. Prepare now for the Future of Work! |
 | [cascade.lu](http://cascade.lu) | Cascade – Cascade – Administrative, Governance and Compliance platform | N/A |
 | [codereg.io](http://codereg.io) | 403 Forbidden | N/A |
 | [cognitivplus.com](http://cognitivplus.com) | Cognitiv+: Review and Understand Documents with Artificial Intelligence | From awareness to action, Cognitiv+ gives you a better way to understand your documents. Enterprise-ready NLP and Deep Learning platform. |
@@ -267,8 +261,7 @@ A software solution to simplify your company’s regulatory and business complia
 | [globalfundwatch.com](http://globalfundwatch.com) | Global Fund Watch - Digital B2B Compliance Services | Digitalize, simplify and speed-up due diligence on business partners |
 | [greenkeytech.com](http://greenkeytech.com) | NLP for Wall Street - GreenKey | GreenKey Understands Wall Street Jargon. |
 | [huntsmansecurity.com](http://huntsmansecurity.com) | Home | Huntsman | N/A |
-| [iconicchain.com](http://iconicchain.com) | iconicchain - compliance based on facts, not faith | iconicchain is on a mission to turn regulatory compliance into an automated, real time process. 
-We disrupt the manual, sample based, Big Four consulting dominated approach by using private, distributed ledgers / blockchains shared between regulated companies, auditors, and regulators.  |
+| [iconicchain.com](http://iconicchain.com) | iconicchain - compliance based on facts, not faith | iconicchain is on a mission to turn regulatory compliance into an automated, real time process. We disrupt the manual, sample based, Big Four consulting dominated approach by using private, distributed ledgers / blockchains shared between regulated companies, auditors, and regulators.  |
 | [illumis.com](http://illumis.com) | illumis | Search and monitoring across thousands of public data sources | Vigilant is now illumis. illumis is a powerful research and intelligence platform for public records data. |
 | [integritynext.com](http://integritynext.com) | IntegrityNext | Supplier Sustainability Monitoring | With IntegrityNext you can monitor thousands of suppliers with minimal effort on an easy-to-use platform: Anti-Bribery, Anti-Corruption, Environmental Protection, Human Rights, Labor Rights, Health and Safety, Blacklists and Sanctions, Cyber Security, Data Protection (GDPR), Conflict Minerals, REACH, RoHS, and many more. |
 | [key2control.nl](http://key2control.nl) | Home | Key2Control | N/A |
@@ -346,8 +339,7 @@ We disrupt the manual, sample based, Big Four consulting dominated approach by u
 | [foxberry.com](http://foxberry.com) | home | N/A |
 | [geospatial-insight.com](http://geospatial-insight.com) | Home - Geospatial Insight | Geospatial Insight's team of experts provide usable intelligence data enabling a wide range of clients to make better informed business decisions. |
 | [growish.com](http://growish.com) | La piattaforma online per Collette e Raccolta Fondi | Growish | Crea la tua colletta online per beneficenza, compleanno, laurea, matrimonio, nascita, festa, viaggio ecc. Facile e Sicuro. |
-| [hivetracker.io](http://hivetracker.io) | Item ID Management, Identification and Authentication, Tracking and Monitoring End-2-End across all the Supply Chain in Real-Time. | HiveTracker - Brings Light to the Dark Spots of the Supply Chain. 
-We are digitizing logistics through global cargo tracking, monitoring and authentication in real-time at Item level. Our platform allows for continuous flow of items, documents and financial aspects |
+| [hivetracker.io](http://hivetracker.io) | Item ID Management, Identification and Authentication, Tracking and Monitoring End-2-End across all the Supply Chain in Real-Time. | HiveTracker - Brings Light to the Dark Spots of the Supply Chain. We are digitizing logistics through global cargo tracking, monitoring and authentication in real-time at Item level. Our platform allows for continuous flow of items, documents and financial aspects |
 | [hoggo.com](http://hoggo.com) | Assurance santé, conformité, technologie & expertise - Hoggo | Entreprise ou indépendant, simplifiez votre couverture santé avec Hoggo : optimisation de vos contrats, gestion en ligne fluide. Devis gratuit ! |
 | [ico-lux.de](http://ico-lux.de) | Startseite | ICO-LUX | Mit der smarten Dokumentenforensik von ICO-LUX werden Dokumentfälschungen mit Hilfe von K.I. automatisiert erkannt. |
 | [kaiko.com](http://kaiko.com) | Kaiko - Digital Assets Data Provider | Kaiko provides real-time and historical cryptocurrency trade data, order books, and aggregated prices through a cryptocurrency API, downloadable CSV files, and a livestream WebSocket. We cover 100+ crypto exchanges and 35,000+ trading pairs for Bitcoin, Ethereum, and altcoins. |
