@@ -3,6 +3,8 @@ import requests
 import tomark
 from datetime import datetime
 
+# a proof of concept to create a market review by a list of company domains
+
 
 def table(listOfDicts):
     """Loop through a list of dicts and return a markdown table as a multi-line string.
@@ -51,6 +53,7 @@ def extract_meta(domain):
     except AttributeError:
        data['description'] = 'N/A'
 
+    data['description'] = data['description'].replace('\n', '').replace('\r', '').replace('\t', '')
 
     print(data)
     return data
@@ -65,6 +68,6 @@ if __name__ == '__main__':
 
 
     with open("Readme.md", "w", encoding="utf-8") as output:
-        output.write(f"# EU RegTech comapnies - Status: {datetime.today().strftime('%Y-%m-%d')}\n\n")
+        output.write(f"# RegTech landscape in the EU\n[EBA RegTech study in the EU financial sector, that Gartner conducted](https://www.eba.europa.eu/eba-assesses-benefits-challenges-and-risks-regtech-use-eu-and-puts-forward-steps-be-taken-support)\n\n")
         output.writelines(table(companies))
     
